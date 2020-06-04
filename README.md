@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1 id="kluska"><strong>SLO 1C</strong>-rozszerzone treści nauczania<strong><em> z Matematyki, fizyki, informatyki</em></strong></h1>
-<img src="https://playarena.pl/uf/media/images_full/338576-0ac00115-3028-3a28.jpg"/ width=1400 height=600>
+<img src="https://raw.githubusercontent.com/Adus64/rek2020v1/master/Grafika%20web.%20(31.05.2020%2C%207_52%20AM).png"/ width=1000 height=300>
 <div id="tekst">
 <h2><a href="http://mt.slosw.pl/plany/1C.pdf" target="_blank"> Plan Nauczania </a> </h2>
 <h2><a href="http://mt.slosw.pl/Harmonogram.pdf" target="_blank"> Harmonogram Rekrutacji </a> </h2>
