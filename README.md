@@ -8,13 +8,88 @@
 
 </head>
 <body>
-<h1 id="kluska"><strong>SLO 1C</strong>-rozszerzone treści nauczania<strong><em> z Matematyki, fizyki, informatyki</em></strong></h1>
-<img src="https://raw.githubusercontent.com/Adus64/rek2020v1/master/Grafika%20web.%20(31.05.2020%2C%207_52%20AM).png"/ width=1000 height=300>
-<div id="tekst">
+	
 <h2><a href="http://mt.slosw.pl/plany/1C.pdf" target="_blank"> Plan Nauczania </a> </h2>
 <h2><a href="http://mt.slosw.pl/Harmonogram.pdf" target="_blank"> Harmonogram Rekrutacji </a> </h2>
 <h2><a href="https://podkarpacie.edu.com.pl/kandydat/app/offer_pg.html" target="_blank"> Rekrutacja </a> </h2>
-
+<table>
+   <thead>
+      <tr>
+	      <th>Rok/Klasa</th> <th>1</th> <th>2</th> <th>3</th> <th>4</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <th>j.polski</th> <td>4</td> <td>4</td><td>4</td><td>4</td>
+      </tr>
+      <tr>
+         <th>Matematyka</th> <td>3</td> <td>4</td><td>3</td><td>4</td>
+      </tr>
+      <tr>
+         <th>J.angielski</th> <td>3</td> <td>3</td><td>3</td><td>3</td>
+      </tr>
+      <tr>
+         <th>J.francuski</th> <td>2(1j)</td> <td>2(1j)</td><td>2(1j)</td><td>2(1j)</td>
+      </tr>
+	   <tr>
+		   <th>J.niemiecki</th> <td>2(1j)</td><td>2(1j)</td><td>2(1j)</td><td>2(1j)</td>
+	   </tr>
+<tr>
+	<th>wf</th> <td>3</td><td>3</td><td>3</td><td>3</td>
+	</tr>
+	   <tr>
+	<th>godz.wych</th> <td>1</td><td>1</td><td>1</td><td>1</td>
+	</tr>
+	   <tr>
+	<th>biologia</th> <td>1</td><td>2</td><td>1</td><td>-</td>
+	</tr>
+	   <tr>
+	<th>chemia</th> <td>1</td><td>2</td><td>1</td><td>-</td>
+	</tr>
+	   <tr>
+	<th>geografia</th> <td>1</td><td>2</td><td>1</td><td>-</td>
+	</tr>
+	   <tr>
+	<th>historia</th> <td>2</td><td>2</td><td>2</td><td>2</td>
+	</tr>
+	   <tr>
+	<th>wos</th> <td>1</td><td>1</td><td>-</td><td>-</td>
+	</tr>
+	   <tr>
+	<th>fizyka</th> <td>1</td><td>1</td><td>2</td><td>-</td>
+	</tr>
+	   <tr>
+	<th>przedsięb.</th> <td>-</td><td>1</td><td>1</td><td>-</td>
+	</tr>
+	   <tr>
+	<th>plastyka</th> <td>1</td><td>-</td><td>-</td><td>-</td>
+	</tr>
+	   <tr>
+	<th>informatyka</th> <td>1</td><td>1</td><td>1</td><td>-</td>
+	</tr>
+	   <tr>
+	<th>e_dla_bezp</th> <td>1</td><td>-</td><td>-</td><td>-</td>
+	</tr>
+	   <tr>
+	<th>religia</th> <td>2</td><td>2</td><td>2</td><td>2</td>
+	</tr>
+	   <tr>
+	<th>wych.rodz.</th> <td>14r</td><td>14r</td><td>14r</td><td>14r</td>
+	</tr>
+	   <tr>
+	<th>doradz.zaw.</th> <td>2r</td><td>2r</td><td>3r</td><td>3r</td>
+	</tr>
+	   <tr>
+	<th>r_matematyka</th> <td>2</td><td>2</td><td>3</td><td>3;1dyr</td>
+	</tr>
+	<tr>
+	<th>r_fizyka</th> <td>1</td><td>2</td><td>2</td><td>3;1dyr</td>
+	</tr>
+	<tr>
+	<th>r_informatyka</th> <td>1</td><td>1</td><td>2</td><td>3;1dyr</td>
+	</tr>
+   </tbody>
+</table>
 <h2><strong>Powinieneś wybrać klasę o takim nachyleniu przedmiotowym, jeśli:</strong> </br></h2>
 <ul id="kebs">
 <li> marzysz o studiach informatycznych, matematycznych, fizycznych, architekturze,
